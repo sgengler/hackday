@@ -28,3 +28,7 @@ html, body, #map-canvas {
 	padding-left: 0 !important;
 	padding-right: 0 !important;
 }
+
+.theme-showcase {
+	margin-top: 50px;
+}
