@@ -1,6 +1,44 @@
 body {
-  padding-top: 70px;
+  padding-top: 60px;
   padding-bottom: 30px;
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar {
+   background: #506016;
+   height: 80px;
+   border: none;
+}
+
+.navbar-header {
+ background: url("../images/logo.png") no-repeat;
+ font-family: 'Roboto Slab', serif;
+ text-transform: uppercase;
+ color: #fff;
+ height: 80px;    
+}
+
+.navbar-inverse .navbar-brand {
+   color: #fff; 
+   padding: 28px 28px 28px 80px;  
+}
+.navbar-nav {
+  float: right;   
+}
+   
+.navbar-inverse .navbar-nav > li > a {
+   color: #fff;
+   padding: 30px;
+   text-transform:uppercase;
+   background-image: none !important; 
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+   background: #485614;
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover {
+   background: #485614;  
 }
 
 .theme-dropdown .dropdown-menu {
@@ -15,4 +53,24 @@ body {
 
 .theme-showcase .navbar .container {
   width: auto;
+}
+
+.page-header {
+ text-align: center;
+ color: #506016;
+ text-transform:uppercase;
+ font-family: 'Roboto Slab', serif;  
+}
+
+.table>thead>tr>th {
+ font-family: 'Roboto Slab', serif;  
+ color: #506016;
+ text-transform:uppercase;
+ font-weight: Normal 400;    
+}
+
+.btn-default {
+  font-family: 'Roboto Slab', serif;
+  text-transform: uppercase;
+  color: #d1543f;
 }
