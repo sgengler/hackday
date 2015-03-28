@@ -1955,9 +1955,8 @@ angular.module('hackdayApp.controllers', [])
 			]
 
 		for (var i = 0; i < dummyLocations.length; i++) {
-			var randomWeight = Math.floor(Math.random() + 1);
 			var player = dummyLocations[i];
-			playerLocations.push({location: new google.maps.LatLng(player.location.k, player.location.D), weight: randomWeight});
+			playerLocations.push({location: new google.maps.LatLng(player.location.k, player.location.D), weight: 1});
 		};
 
 		var geocoder;
