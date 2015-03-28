@@ -65,14 +65,7 @@
                     <tbody>
                          <tr ng-repeat="location in locations | orderBy : 'count' : true | limitTo : 10">
                               <td>{{$index + 1}}</td>
-                              <td>{{location.country | state}} {{location.count}}</td>
-                              <td>
-                                   <ul>
-                                        <li ng-repeat="player in location.players | orderBy : 'birthcity'">
-                                             <span>{{player.full_name}}: {{player.birthcity}}</span>
-                                        </li>
-                                   </ul>
-                              </td>
+                              <td>{{location.country | state}}</td>
                          </tr>
                     </tbody>
                </table>
