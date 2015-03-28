@@ -16,6 +16,7 @@
 <link href="css/bootstrap-theme.min.css" rel="stylesheet">
 <!-- Custom styles for this template -->
 <link href="css/theme.css" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet">
 </head>
 
 <body role="document">
@@ -41,8 +42,8 @@
      <h1>Best Birthplace for Hitters Based on .OPS</h1>
 </div>
 <div class="row">
-     <div class="col-md-9" style="background:#e1e1e1; min-height:500px">
-     <!--Map goes here-->
+     <div class="col-md-9 no-pad-sides" style="background:#e1e1e1; min-height:500px">
+          <div id="map-canvas"></div>
      </div>
      <div class="col-md-3">
           <table class="table table-striped">
@@ -105,11 +106,12 @@
 
 <!-- Bootstrap core JavaScript
     ================================================== --> 
-<!-- Placed at the end of the document so the pages load faster --> 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
-<script src="js/docs.min.js"></script> 
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug --> 
-<script src="js/ie10-viewport-bug-workaround.js"></script>
+<!--<script src="js/ie10-viewport-bug-workaround.js"></script>-->
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=visualization"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
