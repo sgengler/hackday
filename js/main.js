@@ -629,9 +629,9 @@ function initialize() {
 		// 	title: "Philadelphia, PA",
 		// });
 
-      	google.maps.event.addListener(marker, 'click', function() {
-      	    $('#location').text(marker.title);
-      	});
+      	// google.maps.event.addListener(marker, 'click', function() {
+      	//     $('#location').text(marker.title);
+      	// });
 	};
 }
 
