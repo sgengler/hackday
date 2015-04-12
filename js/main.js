@@ -227,13 +227,13 @@ var mapStyles = [
 
 var gradient = [
 	'rgba(0, 255, 255, 0)',
-	'rgba(209, 84, 63, 0.25)',
 	'rgba(209, 84, 63, 0.3)',
 	'rgba(209, 84, 63, 0.35)',
 	'rgba(209, 84, 63, 0.4)',
 	'rgba(209, 84, 63, 0.45)',
 	'rgba(209, 84, 63, 0.5)',
 	'rgba(209, 84, 63, 0.55)',
+	'rgba(209, 84, 63, 0.6)',
 	'rgba(209, 84, 63, 0.65)',
 	'rgba(209, 84, 63, 0.7)',
 	'rgba(209, 84, 63, 0.75)',
@@ -252,7 +252,7 @@ function initialize() {
 
 	var mapOptions = {
 		zoom: 4,
-		center: new google.maps.LatLng(31.50, -98.35),
+		center: new google.maps.LatLng(28.00, -95.00),
 		mapTypeId: google.maps.MapTypeId.ROADMAP,
 		styles: mapStyles
 	};
@@ -283,7 +283,7 @@ function initialize() {
 				if(counter == 2015) {
 					clearInterval(setYears);
 				}
-			}, 500);
+			}, 250);
 		});
 
 	function loadYear(year){
