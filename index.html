@@ -42,14 +42,14 @@
 </nav>
 <div class="container theme-showcase" role="main" ng-controller="MainController">
      <div class="page-header">
-          <h1>Best Birthplace for Hitters Based on .OPS</h1>
+          <h1>Best Birthplace for Hitters Based on Batting Avg. 1871-2014</h1>
      </div>
      <div class="row" ng-controller="HitterController">
           <div class="col-md-9 no-pad-sides" style="background:#e1e1e1; min-height:500px">
                <div id="map-canvas"></div>
           </div>
           <div class="col-md-3">
-               <table class="table table-striped">
+               <!-- <table class="table table-striped">
                     <thead>
                          <tr>
                               <th colspan="3">
@@ -67,7 +67,9 @@
                               <td>{{location.country | state}}</td>
                          </tr>
                     </tbody>
-               </table>
+               </table> -->
+
+               <h2>Year: <span id="year">1871</span></h2>
 
           </div>
      </div>
