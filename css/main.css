@@ -4,6 +4,29 @@ html, body, #map-canvas {
 	padding: 0px
 }
 
+h1, h2 {
+	font-family: "Roboto Slab", serif;
+	margin-top: 0;
+}
+
+
+.map-container {
+	background:#e1e1e1;
+	min-height:500px;
+	position: relative;
+}
+
+.map-header h2 {
+	margin: 0;
+}
+
+.map-header {
+	margin: 0 0 15px;
+}
+
+.map-footer {
+	padding: 15px 0;
+}
 
 #map-canvas {
 	position: absolute !important;
@@ -32,3 +55,9 @@ html, body, #map-canvas {
 .theme-showcase {
 	margin-top: 80px;
 }
+
+.table-locations {
+	min-height: 445px;
+}
+
+

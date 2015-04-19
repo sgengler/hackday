@@ -247,6 +247,7 @@ var gradient = [
 
 var map;
 var playerLocations = [];
+var currentLocations = [];
 
 function initialize() {
 
@@ -273,36 +274,107 @@ function initialize() {
 
 	heatmap.setMap(map);
 
-	$.get('data/yearlyData1.json')
+	var yearlyData2 = {};
+
+	$.get('data/yearlyData2.json')
 		.success(function(data) {
 			yearlyData = data;
 			var counter = 1871;
-			var setYears = setInterval(function() {
-				loadYear(counter);
-				counter++;
-				if(counter == 2015) {
-					clearInterval(setYears);
-				}
-			}, 250);
+
+			var locationArray = {};
+			var locationCountryArray = {};
+			var locationStateArray = {};
+
+			$.each(yearlyData, function(year, locations){
+				locationArray[year] = [];
+				locationCountryArray[year] = [];
+				locationStateArray[year] = [];
+				var countries = {}
+				var states = {}
+				$.each(locations, function(name, location){
+					var nameArr = name.replace(/ /g,'').split(',');
+					var city = nameArr[0];
+					var country = nameArr[nameArr.length - 1];
+
+					var locationObj = {
+						name: name,
+						location: location.location,
+						city: city,
+						country: country,
+						count: location.count,
+						players: location.players
+					}
+
+					if(nameArr.length == 3) {
+						var state = nameArr[1];
+						locationObj.state = state;
+					}
+
+					locationArray[year].push(locationObj);
+
+					
+
+					if(!countries[country]) {
+						countries[country] = 1;
+					} else {
+						countries[country]++;
+					}
+
+					if(state) {
+						if(!states[state]) {
+							states[state] = 1;
+						} else {
+							states[state]++;
+						}
+					}
+					
+				});
+
+				$.each(countries, function(country, count) {
+					locationCountryArray[year].push({
+						name: country,
+						count: count
+					})
+				});
+
+				$.each(states, function(state, count) {
+					locationStateArray[year].push({
+						name: state,
+						count: count
+					})
+				});
+			});
+
+			console.log(locationArray);
+			console.log(locationCountryArray);
+			console.log(locationStateArray);
+
+			// var setYears = setInterval(function() {
+			// 	loadYear(counter);
+			// 	counter++;
+			// 	if(counter == 2015) {
+			// 		clearInterval(setYears);
+			// 	}
+			// }, 250);
 		});
 
 	function loadYear(year){
-		var players = yearlyData[year];
+		var locations = yearlyData[year];
+
 		playerLocations = [];
-		$.each(players, function(index, player){
-			if(!player.location) {return;}
-			if(player.battingAVG !== null && player.battingAVG > 0 && player.battingAVG < 0.45) {
-				playerLocations.push({location: new google.maps.LatLng(player.location[0], player.location[1]), weight: player.battingAVG * 10});
-			}
-			
+
+		$.each(locations, function(index, location){
+
+			playerLocations.push({location: new google.maps.LatLng(location.location[0], location.location[1]), weight: location.count});
+
+			// if(player.battingAVG !== null && player.battingAVG > 0 && player.battingAVG < 0.45) {
+			// 	playerLocations.push({location: new google.maps.LatLng(player.location[0], player.location[1]), weight: player.battingAVG * 10});
+			// }
 		});
+
 		heatmap.setData(playerLocations);
 		$('#year').text(year);
-	}
-
-	
-
-	
+	}	
 }
 
 

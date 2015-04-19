@@ -13,10 +13,14 @@
 <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css">
+
+
 <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <!-- Bootstrap theme -->
 <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+
 <!-- Custom styles for this template -->
 <link href="css/theme.css" rel="stylesheet">
 <link href="css/main.css" rel="stylesheet">
@@ -30,61 +34,34 @@
           <div class="navbar-header">
                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                <a class="navbar-brand" href="index.html">Best Baseball Birthplaces</a></div>
-          <div id="navbar" class="navbar-collapse collapse">
+          <!-- <div id="navbar" class="navbar-collapse collapse">
                <ul class="nav navbar-nav">
                     <li class="active"><a href="index.html">Hitters</a></li>
                     <li><a href="pitchers.html">Pitchers</a></li>
                     <li><a href="hometown.html">Hometown</a></li>
                </ul>
-          </div>
+          </div> -->
           <!--/.nav-collapse --> 
      </div>
 </nav>
-<div class="container theme-showcase" role="main" ng-controller="MainController">
-     <div class="page-header">
-          <h1>Best Birthplace for Hitters Based on Batting Avg. 1871-2014</h1>
-     </div>
-     <div class="row" ng-controller="HitterController">
-          <div class="col-md-9 no-pad-sides" style="background:#e1e1e1; min-height:500px">
-               <div id="map-canvas"></div>
-          </div>
-          <div class="col-md-3">
-               <!-- <table class="table table-striped">
-                    <thead>
-                         <tr>
-                              <th colspan="3">
-                              Top 10 Birthplaces
-                              </th>
-                         </tr>
-                         <tr>
-                              <th>#</th>
-                              <th>Country</th>
-                         </tr>
-                    </thead>
-                    <tbody>
-                         <tr ng-repeat="location in locations | orderBy : 'count' : true | limitTo : 10">
-                              <td>{{$index + 1}}</td>
-                              <td>{{location.country | state}}</td>
-                         </tr>
-                    </tbody>
-               </table> -->
-
-               <h2>Year: <span id="year">1871</span></h2>
-
-          </div>
-     </div>
+<div ui-view class="container theme-showcase" role="main">
+     
 </div>
 
-<!-- Bootstrap core JavaScript
-    ================================================== --> 
-<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --> 
-<!--<script src="js/ie10-viewport-bug-workaround.js"></script>-->
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=visualization&key=AIzaSyByva1IFVRIt7HMk2Fcfxu1wrpxkRqP5Lg"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
-<!-- Latest compiled and minified JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-animate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.13/angular-ui-router.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="js/slider.js"></script>
+
+<!-- <script src="js/main.js"></script> -->
+<script src="js/services.js"></script>
+<script src="js/controllers.js"></script>
+<script src="js/directives.js"></script>
+<script src="js/filters.js"></script>
 <script src="js/app.js"></script>
-<script src="js/main.js"></script>
 </body>
 </html>

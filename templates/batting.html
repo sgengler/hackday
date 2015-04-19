@@ -1,0 +1,57 @@
+<div class="page-header">
+     <h1>Best Birthplace for Hitters 1871-2014</h1>
+</div>
+<div class="row" ng-controller="HitterController">
+
+     <div class="col-xs-12 col-md-9">
+          <div class="map-container">
+               <div id="map-canvas" google-map></div>
+          </div>
+          <div class="map-footer">
+               <h2><span class="small">Year:</span> <span id="year">{{currentYear}}</span></h2>
+               <div ui-slider=""  
+                    min="1871" 
+                    max="2014" 
+                    ng-model="currentYear" 
+                    class="ng-valid ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all">
+                    <a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 2%;"></a>
+               </div>
+          </div>
+     </div>
+     <div class="col-xs-12 col-md-3">
+          <table class="table-locations table table-striped">
+               <thead>
+                    <tr>
+                         <th colspan="2">Top 10 Birthplaces in {{currentYear}}</th>
+                    </tr>
+                    <tr>
+                         <th class="col-xs-1 col-md-3">#</th>
+                         <th>{{locationTypeName()}}</th>
+                    </tr>
+               </thead>
+               <tbody>
+                    <tr class="location" ng-repeat="location in this[locationType] | orderBy : 'count' : true | limitTo : 10">
+                         <td>{{$index + 1}}</td>
+                         <td>{{location.name}} ({{location.count}})</td>
+                    </tr>
+               </tbody>
+          </table>
+
+          <div ng-show="!this[locationType]">
+               <div class="alert alert-danger" role="alert">Loading Players...</div>
+          </div>
+
+          <div class="list-filter">
+               <label class="radio-inline">
+                     <input type="radio" ng-model="locationType" value="cityLocations"> By City
+                </label>
+               <label class="radio-inline">
+                    <input type="radio" ng-model="locationType" value="countryLocations" >By Country
+               </label>
+               <label class="radio-inline">
+                    <input type="radio" ng-model="locationType" value="stateLocations" >By State
+               </label>
+          </div>
+
+     </div>
+</div>

@@ -1,0 +1,6398 @@
+{
+  "1871": [
+    {
+      "name": "USA",
+      "count": 43
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 5
+    }
+  ],
+  "1872": [
+    {
+      "name": "USA",
+      "count": 43
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1873": [
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "USA",
+      "count": 34
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1874": [
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "USA",
+      "count": 42
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    }
+  ],
+  "1875": [
+    {
+      "name": "USA",
+      "count": 51
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 5
+    }
+  ],
+  "1876": [
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "USA",
+      "count": 45
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    }
+  ],
+  "1877": [
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "USA",
+      "count": 42
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    }
+  ],
+  "1878": [
+    {
+      "name": "USA",
+      "count": 36
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    }
+  ],
+  "1879": [
+    {
+      "name": "USA",
+      "count": 56
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    }
+  ],
+  "1880": [
+    {
+      "name": "USA",
+      "count": 65
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    }
+  ],
+  "1881": [
+    {
+      "name": "USA",
+      "count": 61
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    }
+  ],
+  "1882": [
+    {
+      "name": "USA",
+      "count": 93
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    }
+  ],
+  "1883": [
+    {
+      "name": "USA",
+      "count": 115
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 9
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1884": [
+    {
+      "name": "USA",
+      "count": 243
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 5
+    },
+    {
+      "name": "CAN",
+      "count": 18
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1885": [
+    {
+      "name": "USA",
+      "count": 140
+    },
+    {
+      "name": "CAN",
+      "count": 10
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "Sweden",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1886": [
+    {
+      "name": "USA",
+      "count": 150
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1887": [
+    {
+      "name": "USA",
+      "count": 153
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "Ireland",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1888": [
+    {
+      "name": "USA",
+      "count": 164
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1889": [
+    {
+      "name": "USA",
+      "count": 165
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1890": [
+    {
+      "name": "USA",
+      "count": 244
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "Ireland",
+      "count": 5
+    },
+    {
+      "name": "CAN",
+      "count": 11
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1891": [
+    {
+      "name": "USA",
+      "count": 194
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Ireland",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1892": [
+    {
+      "name": "USA",
+      "count": 162
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Ireland",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 3
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1893": [
+    {
+      "name": "USA",
+      "count": 166
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Ireland",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1894": [
+    {
+      "name": "USA",
+      "count": 168
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 3
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1895": [
+    {
+      "name": "USA",
+      "count": 175
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1896": [
+    {
+      "name": "USA",
+      "count": 170
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1897": [
+    {
+      "name": "USA",
+      "count": 173
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1898": [
+    {
+      "name": "USA",
+      "count": 199
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1899": [
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "USA",
+      "count": 228
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1900": [
+    {
+      "name": "USA",
+      "count": 146
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1901": [
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "USA",
+      "count": 239
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Russia",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1902": [
+    {
+      "name": "USA",
+      "count": 260
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Ireland",
+      "count": 4
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    }
+  ],
+  "1903": [
+    {
+      "name": "USA",
+      "count": 260
+    },
+    {
+      "name": "Norway",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Ireland",
+      "count": 4
+    }
+  ],
+  "1904": [
+    {
+      "name": "USA",
+      "count": 247
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Ireland",
+      "count": 5
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 3
+    }
+  ],
+  "1905": [
+    {
+      "name": "USA",
+      "count": 276
+    },
+    {
+      "name": "Norway",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    }
+  ],
+  "1906": [
+    {
+      "name": "USA",
+      "count": 292
+    },
+    {
+      "name": "Norway",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    }
+  ],
+  "1907": [
+    {
+      "name": "USA",
+      "count": 303
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    }
+  ],
+  "1908": [
+    {
+      "name": "USA",
+      "count": 335
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    }
+  ],
+  "1909": [
+    {
+      "name": "USA",
+      "count": 367
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 5
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1910": [
+    {
+      "name": "USA",
+      "count": 371
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1911": [
+    {
+      "name": "USA",
+      "count": 404
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "Denmark",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1912": [
+    {
+      "name": "USA",
+      "count": 445
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "Denmark",
+      "count": 1
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1913": [
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "USA",
+      "count": 436
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Denmark",
+      "count": 1
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    }
+  ],
+  "1914": [
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "USA",
+      "count": 520
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "Sweden",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Denmark",
+      "count": 1
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    },
+    {
+      "name": "China",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "CzechRepublic",
+      "count": 1
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    }
+  ],
+  "1915": [
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "USA",
+      "count": 510
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Denmark",
+      "count": 1
+    },
+    {
+      "name": "Switzerland",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    }
+  ],
+  "1916": [
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "USA",
+      "count": 389
+    },
+    {
+      "name": "Ireland",
+      "count": 3
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Sweden",
+      "count": 2
+    },
+    {
+      "name": "Denmark",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    }
+  ],
+  "1917": [
+    {
+      "name": "USA",
+      "count": 364
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "Ireland",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Denmark",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    }
+  ],
+  "1918": [
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "USA",
+      "count": 351
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Sweden",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1919": [
+    {
+      "name": "USA",
+      "count": 348
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Sweden",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1920": [
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "USA",
+      "count": 363
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Sweden",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1921": [
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "USA",
+      "count": 365
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Sweden",
+      "count": 1
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    },
+    {
+      "name": "Finland",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1922": [
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "USA",
+      "count": 369
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Sweden",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 3
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1923": [
+    {
+      "name": "USA",
+      "count": 377
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1924": [
+    {
+      "name": "USA",
+      "count": 401
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1925": [
+    {
+      "name": "USA",
+      "count": 412
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1926": [
+    {
+      "name": "USA",
+      "count": 387
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1927": [
+    {
+      "name": "USA",
+      "count": 395
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "1928": [
+    {
+      "name": "USA",
+      "count": 392
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "1929": [
+    {
+      "name": "USA",
+      "count": 404
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1930": [
+    {
+      "name": "USA",
+      "count": 393
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1931": [
+    {
+      "name": "USA",
+      "count": 383
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1932": [
+    {
+      "name": "USA",
+      "count": 381
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1933": [
+    {
+      "name": "USA",
+      "count": 356
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "Slovakia",
+      "count": 1
+    }
+  ],
+  "1934": [
+    {
+      "name": "USA",
+      "count": 370
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    }
+  ],
+  "1935": [
+    {
+      "name": "USA",
+      "count": 365
+    },
+    {
+      "name": "Mexico",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    }
+  ],
+  "1936": [
+    {
+      "name": "USA",
+      "count": 376
+    },
+    {
+      "name": "Mexico",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    }
+  ],
+  "1937": [
+    {
+      "name": "USA",
+      "count": 387
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    }
+  ],
+  "1938": [
+    {
+      "name": "USA",
+      "count": 385
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    }
+  ],
+  "1939": [
+    {
+      "name": "USA",
+      "count": 387
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Norway",
+      "count": 1
+    }
+  ],
+  "1940": [
+    {
+      "name": "USA",
+      "count": 384
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1941": [
+    {
+      "name": "USA",
+      "count": 400
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1942": [
+    {
+      "name": "USA",
+      "count": 377
+    },
+    {
+      "name": "P.R.",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Mexico",
+      "count": 2
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1943": [
+    {
+      "name": "USA",
+      "count": 388
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Greece",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1944": [
+    {
+      "name": "USA",
+      "count": 393
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 7
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    }
+  ],
+  "1945": [
+    {
+      "name": "USA",
+      "count": 398
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "Ireland",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    }
+  ],
+  "1946": [
+    {
+      "name": "USA",
+      "count": 472
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 1
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1947": [
+    {
+      "name": "USA",
+      "count": 396
+    },
+    {
+      "name": "Italy",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 1
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1948": [
+    {
+      "name": "USA",
+      "count": 402
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1949": [
+    {
+      "name": "USA",
+      "count": 383
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "Austria",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1950": [
+    {
+      "name": "USA",
+      "count": 379
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1951": [
+    {
+      "name": "USA",
+      "count": 384
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "Austria",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1952": [
+    {
+      "name": "USA",
+      "count": 394
+    },
+    {
+      "name": "Cuba",
+      "count": 8
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "CzechRepublic",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1953": [
+    {
+      "name": "USA",
+      "count": 387
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 2
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1954": [
+    {
+      "name": "USA",
+      "count": 375
+    },
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "Mexico",
+      "count": 3
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 3
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 5
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1955": [
+    {
+      "name": "USA",
+      "count": 419
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Cuba",
+      "count": 8
+    },
+    {
+      "name": "P.R.",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 3
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1956": [
+    {
+      "name": "USA",
+      "count": 383
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "D.R.",
+      "count": 1
+    }
+  ],
+  "1957": [
+    {
+      "name": "USA",
+      "count": 389
+    },
+    {
+      "name": "CAN",
+      "count": 3
+    },
+    {
+      "name": "Cuba",
+      "count": 7
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "D.R.",
+      "count": 1
+    }
+  ],
+  "1958": [
+    {
+      "name": "USA",
+      "count": 393
+    },
+    {
+      "name": "D.R.",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 8
+    },
+    {
+      "name": "Mexico",
+      "count": 4
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 1
+    },
+    {
+      "name": "P.R.",
+      "count": 6
+    },
+    {
+      "name": "Poland",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "1959": [
+    {
+      "name": "USA",
+      "count": 391
+    },
+    {
+      "name": "D.R.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 9
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 8
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 3
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "1960": [
+    {
+      "name": "USA",
+      "count": 378
+    },
+    {
+      "name": "D.R.",
+      "count": 6
+    },
+    {
+      "name": "Cuba",
+      "count": 11
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 10
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "1961": [
+    {
+      "name": "USA",
+      "count": 408
+    },
+    {
+      "name": "D.R.",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 9
+    },
+    {
+      "name": "Cuba",
+      "count": 10
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    }
+  ],
+  "1962": [
+    {
+      "name": "USA",
+      "count": 444
+    },
+    {
+      "name": "D.R.",
+      "count": 7
+    },
+    {
+      "name": "Cuba",
+      "count": 12
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 11
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 9
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    }
+  ],
+  "1963": [
+    {
+      "name": "USA",
+      "count": 440
+    },
+    {
+      "name": "D.R.",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "P.R.",
+      "count": 10
+    },
+    {
+      "name": "Cuba",
+      "count": 13
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    }
+  ],
+  "1964": [
+    {
+      "name": "USA",
+      "count": 450
+    },
+    {
+      "name": "P.R.",
+      "count": 10
+    },
+    {
+      "name": "D.R.",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 17
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    }
+  ],
+  "1965": [
+    {
+      "name": "USA",
+      "count": 430
+    },
+    {
+      "name": "P.R.",
+      "count": 13
+    },
+    {
+      "name": "D.R.",
+      "count": 7
+    },
+    {
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "name": "Venezuela",
+      "count": 3
+    },
+    {
+      "name": "Cuba",
+      "count": 17
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    }
+  ],
+  "1966": [
+    {
+      "name": "USA",
+      "count": 432
+    },
+    {
+      "name": "P.R.",
+      "count": 11
+    },
+    {
+      "name": "D.R.",
+      "count": 8
+    },
+    {
+      "name": "Mexico",
+      "count": 2
+    },
+    {
+      "name": "Venezuela",
+      "count": 3
+    },
+    {
+      "name": "Cuba",
+      "count": 19
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 8
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    }
+  ],
+  "1967": [
+    {
+      "name": "USA",
+      "count": 445
+    },
+    {
+      "name": "P.R.",
+      "count": 10
+    },
+    {
+      "name": "D.R.",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 3
+    },
+    {
+      "name": "Venezuela",
+      "count": 6
+    },
+    {
+      "name": "Cuba",
+      "count": 18
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "1968": [
+    {
+      "name": "USA",
+      "count": 417
+    },
+    {
+      "name": "P.R.",
+      "count": 10
+    },
+    {
+      "name": "D.R.",
+      "count": 7
+    },
+    {
+      "name": "Mexico",
+      "count": 5
+    },
+    {
+      "name": "Venezuela",
+      "count": 4
+    },
+    {
+      "name": "Cuba",
+      "count": 16
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "AmericanSamoa",
+      "count": 1
+    }
+  ],
+  "1969": [
+    {
+      "name": "USA",
+      "count": 482
+    },
+    {
+      "name": "P.R.",
+      "count": 13
+    },
+    {
+      "name": "D.R.",
+      "count": 10
+    },
+    {
+      "name": "Mexico",
+      "count": 6
+    },
+    {
+      "name": "Venezuela",
+      "count": 5
+    },
+    {
+      "name": "Cuba",
+      "count": 15
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    }
+  ],
+  "1970": [
+    {
+      "name": "USA",
+      "count": 477
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "P.R.",
+      "count": 16
+    },
+    {
+      "name": "D.R.",
+      "count": 9
+    },
+    {
+      "name": "Venezuela",
+      "count": 6
+    },
+    {
+      "name": "Cuba",
+      "count": 18
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Mexico",
+      "count": 6
+    }
+  ],
+  "1971": [
+    {
+      "name": "USA",
+      "count": 468
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 10
+    },
+    {
+      "name": "Venezuela",
+      "count": 6
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 14
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "Mexico",
+      "count": 6
+    }
+  ],
+  "1972": [
+    {
+      "name": "USA",
+      "count": 458
+    },
+    {
+      "name": "Mexico",
+      "count": 10
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 11
+    },
+    {
+      "name": "Venezuela",
+      "count": 7
+    },
+    {
+      "name": "Cuba",
+      "count": 11
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Poland",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1973": [
+    {
+      "name": "USA",
+      "count": 459
+    },
+    {
+      "name": "Mexico",
+      "count": 9
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 9
+    },
+    {
+      "name": "Venezuela",
+      "count": 8
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 12
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Japan",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    }
+  ],
+  "1974": [
+    {
+      "name": "USA",
+      "count": 476
+    },
+    {
+      "name": "Mexico",
+      "count": 10
+    },
+    {
+      "name": "P.R.",
+      "count": 21
+    },
+    {
+      "name": "D.R.",
+      "count": 12
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Venezuela",
+      "count": 7
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 10
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "AmericanSamoa",
+      "count": 1
+    }
+  ],
+  "1975": [
+    {
+      "name": "USA",
+      "count": 464
+    },
+    {
+      "name": "Mexico",
+      "count": 8
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 11
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 9
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "Venezuela",
+      "count": 5
+    },
+    {
+      "name": "V.I.",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "AmericanSamoa",
+      "count": 1
+    }
+  ],
+  "1976": [
+    {
+      "name": "USA",
+      "count": 436
+    },
+    {
+      "name": "D.R.",
+      "count": 8
+    },
+    {
+      "name": "P.R.",
+      "count": 21
+    },
+    {
+      "name": "Venezuela",
+      "count": 7
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Mexico",
+      "count": 10
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 7
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "V.I.",
+      "count": 3
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "AmericanSamoa",
+      "count": 1
+    }
+  ],
+  "1977": [
+    {
+      "name": "USA",
+      "count": 465
+    },
+    {
+      "name": "D.R.",
+      "count": 13
+    },
+    {
+      "name": "P.R.",
+      "count": 21
+    },
+    {
+      "name": "Venezuela",
+      "count": 8
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Mexico",
+      "count": 10
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "V.I.",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "AmericanSamoa",
+      "count": 1
+    }
+  ],
+  "1978": [
+    {
+      "name": "USA",
+      "count": 474
+    },
+    {
+      "name": "P.R.",
+      "count": 14
+    },
+    {
+      "name": "D.R.",
+      "count": 17
+    },
+    {
+      "name": "Venezuela",
+      "count": 8
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Mexico",
+      "count": 12
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 5
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 5
+    },
+    {
+      "name": "V.I.",
+      "count": 3
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "AmericanSamoa",
+      "count": 1
+    }
+  ],
+  "1979": [
+    {
+      "name": "USA",
+      "count": 464
+    },
+    {
+      "name": "D.R.",
+      "count": 16
+    },
+    {
+      "name": "Venezuela",
+      "count": 7
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "Mexico",
+      "count": 10
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Netherlands",
+      "count": 2
+    },
+    {
+      "name": "France",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "V.I.",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "AmericanSamoa",
+      "count": 1
+    }
+  ],
+  "1980": [
+    {
+      "name": "USA",
+      "count": 472
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "D.R.",
+      "count": 14
+    },
+    {
+      "name": "Venezuela",
+      "count": 9
+    },
+    {
+      "name": "Mexico",
+      "count": 12
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Netherlands",
+      "count": 2
+    },
+    {
+      "name": "France",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "CAN",
+      "count": 7
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    }
+  ],
+  "1981": [
+    {
+      "name": "USA",
+      "count": 462
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 14
+    },
+    {
+      "name": "Venezuela",
+      "count": 9
+    },
+    {
+      "name": "Mexico",
+      "count": 12
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Nicaragua",
+      "count": 3
+    },
+    {
+      "name": "France",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    }
+  ],
+  "1982": [
+    {
+      "name": "USA",
+      "count": 481
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "Nicaragua",
+      "count": 4
+    },
+    {
+      "name": "D.R.",
+      "count": 17
+    },
+    {
+      "name": "Venezuela",
+      "count": 10
+    },
+    {
+      "name": "Mexico",
+      "count": 12
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    }
+  ],
+  "1983": [
+    {
+      "name": "USA",
+      "count": 495
+    },
+    {
+      "name": "P.R.",
+      "count": 16
+    },
+    {
+      "name": "Nicaragua",
+      "count": 4
+    },
+    {
+      "name": "D.R.",
+      "count": 18
+    },
+    {
+      "name": "Venezuela",
+      "count": 11
+    },
+    {
+      "name": "Mexico",
+      "count": 9
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 3
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 3
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Spain",
+      "count": 1
+    }
+  ],
+  "1984": [
+    {
+      "name": "USA",
+      "count": 478
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "Nicaragua",
+      "count": 4
+    },
+    {
+      "name": "D.R.",
+      "count": 19
+    },
+    {
+      "name": "Venezuela",
+      "count": 12
+    },
+    {
+      "name": "Mexico",
+      "count": 8
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 3
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    }
+  ],
+  "1985": [
+    {
+      "name": "USA",
+      "count": 486
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "D.R.",
+      "count": 19
+    },
+    {
+      "name": "Venezuela",
+      "count": 13
+    },
+    {
+      "name": "Mexico",
+      "count": 6
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Germany",
+      "count": 4
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "Spain",
+      "count": 1
+    }
+  ],
+  "1986": [
+    {
+      "name": "USA",
+      "count": 484
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "D.R.",
+      "count": 21
+    },
+    {
+      "name": "Venezuela",
+      "count": 12
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 2
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "Mexico",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 2
+    },
+    {
+      "name": "Spain",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "1987": [
+    {
+      "name": "USA",
+      "count": 490
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 22
+    },
+    {
+      "name": "Venezuela",
+      "count": 12
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "France",
+      "count": 3
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "Mexico",
+      "count": 7
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    },
+    {
+      "name": "Honduras",
+      "count": 1
+    }
+  ],
+  "1988": [
+    {
+      "name": "USA",
+      "count": 476
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "D.R.",
+      "count": 24
+    },
+    {
+      "name": "Venezuela",
+      "count": 19
+    },
+    {
+      "name": "Mexico",
+      "count": 9
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 4
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "France",
+      "count": 2
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Spain",
+      "count": 1
+    },
+    {
+      "name": "Honduras",
+      "count": 1
+    }
+  ],
+  "1989": [
+    {
+      "name": "USA",
+      "count": 496
+    },
+    {
+      "name": "P.R.",
+      "count": 16
+    },
+    {
+      "name": "Venezuela",
+      "count": 16
+    },
+    {
+      "name": "D.R.",
+      "count": 25
+    },
+    {
+      "name": "Panama",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 5
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 5
+    },
+    {
+      "name": "Mexico",
+      "count": 3
+    },
+    {
+      "name": "France",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Spain",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    },
+    {
+      "name": "Honduras",
+      "count": 1
+    }
+  ],
+  "1990": [
+    {
+      "name": "USA",
+      "count": 507
+    },
+    {
+      "name": "P.R.",
+      "count": 19
+    },
+    {
+      "name": "Venezuela",
+      "count": 16
+    },
+    {
+      "name": "D.R.",
+      "count": 25
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "Japan",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 6
+    },
+    {
+      "name": "Mexico",
+      "count": 6
+    },
+    {
+      "name": "France",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Honduras",
+      "count": 1
+    }
+  ],
+  "1991": [
+    {
+      "name": "USA",
+      "count": 507
+    },
+    {
+      "name": "P.R.",
+      "count": 21
+    },
+    {
+      "name": "Venezuela",
+      "count": 16
+    },
+    {
+      "name": "D.R.",
+      "count": 26
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 9
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Mexico",
+      "count": 9
+    },
+    {
+      "name": "Japan",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Belize",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 1
+    },
+    {
+      "name": "Honduras",
+      "count": 1
+    }
+  ],
+  "1992": [
+    {
+      "name": "USA",
+      "count": 500
+    },
+    {
+      "name": "P.R.",
+      "count": 20
+    },
+    {
+      "name": "D.R.",
+      "count": 26
+    },
+    {
+      "name": "Venezuela",
+      "count": 9
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 12
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "Mexico",
+      "count": 4
+    },
+    {
+      "name": "Russia",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Belize",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 2
+    },
+    {
+      "name": "Honduras",
+      "count": 1
+    }
+  ],
+  "1993": [
+    {
+      "name": "USA",
+      "count": 531
+    },
+    {
+      "name": "P.R.",
+      "count": 21
+    },
+    {
+      "name": "D.R.",
+      "count": 24
+    },
+    {
+      "name": "Venezuela",
+      "count": 13
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 14
+    },
+    {
+      "name": "Afghanistan",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "Mexico",
+      "count": 7
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 5
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Belize",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Honduras",
+      "count": 1
+    }
+  ],
+  "1994": [
+    {
+      "name": "USA",
+      "count": 486
+    },
+    {
+      "name": "P.R.",
+      "count": 19
+    },
+    {
+      "name": "Venezuela",
+      "count": 8
+    },
+    {
+      "name": "Cuba",
+      "count": 2
+    },
+    {
+      "name": "D.R.",
+      "count": 28
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 10
+    },
+    {
+      "name": "Japan",
+      "count": 1
+    },
+    {
+      "name": "Afghanistan",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Mexico",
+      "count": 8
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "SouthKorea",
+      "count": 1
+    },
+    {
+      "name": "Honduras",
+      "count": 1
+    }
+  ],
+  "1995": [
+    {
+      "name": "USA",
+      "count": 541
+    },
+    {
+      "name": "Mexico",
+      "count": 13
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "D.R.",
+      "count": 31
+    },
+    {
+      "name": "Venezuela",
+      "count": 14
+    },
+    {
+      "name": "Cuba",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Afghanistan",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 2
+    },
+    {
+      "name": "CAN",
+      "count": 9
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "Japan",
+      "count": 2
+    },
+    {
+      "name": "SouthKorea",
+      "count": 1
+    }
+  ],
+  "1996": [
+    {
+      "name": "USA",
+      "count": 521
+    },
+    {
+      "name": "Venezuela",
+      "count": 18
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 35
+    },
+    {
+      "name": "Mexico",
+      "count": 10
+    },
+    {
+      "name": "CAN",
+      "count": 10
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "Philippines",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 2
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "Singapore",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 2
+    },
+    {
+      "name": "Belgium",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 3
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "SouthKorea",
+      "count": 1
+    },
+    {
+      "name": "Colombia",
+      "count": 1
+    }
+  ],
+  "1997": [
+    {
+      "name": "USA",
+      "count": 515
+    },
+    {
+      "name": "Venezuela",
+      "count": 18
+    },
+    {
+      "name": "Mexico",
+      "count": 13
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 36
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 5
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 9
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 5
+    },
+    {
+      "name": "Singapore",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Belgium",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "SouthKorea",
+      "count": 1
+    },
+    {
+      "name": "Spain",
+      "count": 1
+    }
+  ],
+  "1998": [
+    {
+      "name": "USA",
+      "count": 539
+    },
+    {
+      "name": "Venezuela",
+      "count": 17
+    },
+    {
+      "name": "Mexico",
+      "count": 14
+    },
+    {
+      "name": "D.R.",
+      "count": 37
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "Cuba",
+      "count": 3
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 5
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 12
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "SouthKorea",
+      "count": 2
+    },
+    {
+      "name": "Philippines",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 3
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 5
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Belgium",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Spain",
+      "count": 1
+    }
+  ],
+  "1999": [
+    {
+      "name": "USA",
+      "count": 531
+    },
+    {
+      "name": "Venezuela",
+      "count": 16
+    },
+    {
+      "name": "Mexico",
+      "count": 16
+    },
+    {
+      "name": "D.R.",
+      "count": 35
+    },
+    {
+      "name": "P.R.",
+      "count": 17
+    },
+    {
+      "name": "Cuba",
+      "count": 4
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 5
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 14
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "SouthKorea",
+      "count": 3
+    },
+    {
+      "name": "Philippines",
+      "count": 1
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 8
+    },
+    {
+      "name": "Singapore",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "2000": [
+    {
+      "name": "USA",
+      "count": 538
+    },
+    {
+      "name": "Venezuela",
+      "count": 24
+    },
+    {
+      "name": "Mexico",
+      "count": 18
+    },
+    {
+      "name": "D.R.",
+      "count": 39
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "Cuba",
+      "count": 5
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "Philippines",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 14
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 10
+    },
+    {
+      "name": "SouthKorea",
+      "count": 3
+    },
+    {
+      "name": "Aruba",
+      "count": 3
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Belgium",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    }
+  ],
+  "2001": [
+    {
+      "name": "USA",
+      "count": 522
+    },
+    {
+      "name": "Venezuela",
+      "count": 23
+    },
+    {
+      "name": "D.R.",
+      "count": 38
+    },
+    {
+      "name": "Mexico",
+      "count": 13
+    },
+    {
+      "name": "P.R.",
+      "count": 19
+    },
+    {
+      "name": "Cuba",
+      "count": 7
+    },
+    {
+      "name": "Australia",
+      "count": 5
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Philippines",
+      "count": 1
+    },
+    {
+      "name": "CAN",
+      "count": 13
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 9
+    },
+    {
+      "name": "Singapore",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "SouthKorea",
+      "count": 3
+    },
+    {
+      "name": "Aruba",
+      "count": 3
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    }
+  ],
+  "2002": [
+    {
+      "name": "USA",
+      "count": 509
+    },
+    {
+      "name": "Venezuela",
+      "count": 23
+    },
+    {
+      "name": "D.R.",
+      "count": 40
+    },
+    {
+      "name": "Mexico",
+      "count": 15
+    },
+    {
+      "name": "P.R.",
+      "count": 20
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "CAN",
+      "count": 11
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "SouthKorea",
+      "count": 5
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Taiwan",
+      "count": 1
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 11
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 3
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Belgium",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 5
+    }
+  ],
+  "2003": [
+    {
+      "name": "USA",
+      "count": 515
+    },
+    {
+      "name": "Venezuela",
+      "count": 24
+    },
+    {
+      "name": "D.R.",
+      "count": 40
+    },
+    {
+      "name": "Mexico",
+      "count": 18
+    },
+    {
+      "name": "P.R.",
+      "count": 19
+    },
+    {
+      "name": "Cuba",
+      "count": 5
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 14
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "SouthKorea",
+      "count": 5
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Taiwan",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 12
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 2
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "2004": [
+    {
+      "name": "USA",
+      "count": 511
+    },
+    {
+      "name": "Venezuela",
+      "count": 28
+    },
+    {
+      "name": "D.R.",
+      "count": 43
+    },
+    {
+      "name": "P.R.",
+      "count": 19
+    },
+    {
+      "name": "Mexico",
+      "count": 16
+    },
+    {
+      "name": "SouthKorea",
+      "count": 6
+    },
+    {
+      "name": "Cuba",
+      "count": 5
+    },
+    {
+      "name": "Australia",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 15
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Taiwan",
+      "count": 2
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 13
+    },
+    {
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    }
+  ],
+  "2005": [
+    {
+      "name": "USA",
+      "count": 512
+    },
+    {
+      "name": "Venezuela",
+      "count": 26
+    },
+    {
+      "name": "D.R.",
+      "count": 43
+    },
+    {
+      "name": "P.R.",
+      "count": 18
+    },
+    {
+      "name": "Mexico",
+      "count": 17
+    },
+    {
+      "name": "Cuba",
+      "count": 5
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 15
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "Taiwan",
+      "count": 2
+    },
+    {
+      "name": "SouthKorea",
+      "count": 7
+    },
+    {
+      "name": "V.I.",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 12
+    },
+    {
+      "name": "Curacao",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    }
+  ],
+  "2006": [
+    {
+      "name": "USA",
+      "count": 521
+    },
+    {
+      "name": "Venezuela",
+      "count": 27
+    },
+    {
+      "name": "D.R.",
+      "count": 45
+    },
+    {
+      "name": "P.R.",
+      "count": 15
+    },
+    {
+      "name": "Mexico",
+      "count": 14
+    },
+    {
+      "name": "SouthKorea",
+      "count": 5
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "CAN",
+      "count": 18
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Curacao",
+      "count": 2
+    },
+    {
+      "name": "VietNam",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Guam",
+      "count": 1
+    },
+    {
+      "name": "Australia",
+      "count": 2
+    },
+    {
+      "name": "Japan",
+      "count": 9
+    },
+    {
+      "name": "Taiwan",
+      "count": 1
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "Indonesia",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    }
+  ],
+  "2007": [
+    {
+      "name": "USA",
+      "count": 545
+    },
+    {
+      "name": "Venezuela",
+      "count": 28
+    },
+    {
+      "name": "D.R.",
+      "count": 44
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "P.R.",
+      "count": 16
+    },
+    {
+      "name": "Mexico",
+      "count": 14
+    },
+    {
+      "name": "SouthKorea",
+      "count": 4
+    },
+    {
+      "name": "Cuba",
+      "count": 6
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Curacao",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 18
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Taiwan",
+      "count": 2
+    },
+    {
+      "name": "Japan",
+      "count": 13
+    },
+    {
+      "name": "Indonesia",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    },
+    {
+      "name": "SaudiArabia",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    }
+  ],
+  "2008": [
+    {
+      "name": "USA",
+      "count": 541
+    },
+    {
+      "name": "Venezuela",
+      "count": 31
+    },
+    {
+      "name": "Mexico",
+      "count": 17
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "P.R.",
+      "count": 16
+    },
+    {
+      "name": "D.R.",
+      "count": 40
+    },
+    {
+      "name": "SouthKorea",
+      "count": 3
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Curacao",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "CAN",
+      "count": 14
+    },
+    {
+      "name": "Cuba",
+      "count": 7
+    },
+    {
+      "name": "Colombia",
+      "count": 2
+    },
+    {
+      "name": "Japan",
+      "count": 14
+    },
+    {
+      "name": "Nicaragua",
+      "count": 2
+    },
+    {
+      "name": "Taiwan",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Indonesia",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    },
+    {
+      "name": "SaudiArabia",
+      "count": 1
+    },
+    {
+      "name": "UnitedKingdom",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    }
+  ],
+  "2009": [
+    {
+      "name": "USA",
+      "count": 534
+    },
+    {
+      "name": "Venezuela",
+      "count": 32
+    },
+    {
+      "name": "D.R.",
+      "count": 43
+    },
+    {
+      "name": "Mexico",
+      "count": 16
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "P.R.",
+      "count": 16
+    },
+    {
+      "name": "CAN",
+      "count": 15
+    },
+    {
+      "name": "Cuba",
+      "count": 7
+    },
+    {
+      "name": "Germany",
+      "count": 4
+    },
+    {
+      "name": "Curacao",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "Nicaragua",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 3
+    },
+    {
+      "name": "SouthKorea",
+      "count": 2
+    },
+    {
+      "name": "Japan",
+      "count": 15
+    },
+    {
+      "name": "Taiwan",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    },
+    {
+      "name": "SaudiArabia",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    }
+  ],
+  "2010": [
+    {
+      "name": "USA",
+      "count": 540
+    },
+    {
+      "name": "D.R.",
+      "count": 40
+    },
+    {
+      "name": "Venezuela",
+      "count": 30
+    },
+    {
+      "name": "Mexico",
+      "count": 15
+    },
+    {
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "name": "P.R.",
+      "count": 12
+    },
+    {
+      "name": "Cuba",
+      "count": 9
+    },
+    {
+      "name": "CAN",
+      "count": 15
+    },
+    {
+      "name": "Germany",
+      "count": 4
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "Curacao",
+      "count": 2
+    },
+    {
+      "name": "Nicaragua",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 3
+    },
+    {
+      "name": "SouthKorea",
+      "count": 2
+    },
+    {
+      "name": "Japan",
+      "count": 11
+    },
+    {
+      "name": "Netherlands",
+      "count": 2
+    },
+    {
+      "name": "Taiwan",
+      "count": 2
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    }
+  ],
+  "2011": [
+    {
+      "name": "D.R.",
+      "count": 43
+    },
+    {
+      "name": "Venezuela",
+      "count": 31
+    },
+    {
+      "name": "USA",
+      "count": 551
+    },
+    {
+      "name": "Mexico",
+      "count": 14
+    },
+    {
+      "name": "Panama",
+      "count": 5
+    },
+    {
+      "name": "Cuba",
+      "count": 8
+    },
+    {
+      "name": "CAN",
+      "count": 18
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Australia",
+      "count": 6
+    },
+    {
+      "name": "P.R.",
+      "count": 16
+    },
+    {
+      "name": "Curacao",
+      "count": 2
+    },
+    {
+      "name": "Nicaragua",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 3
+    },
+    {
+      "name": "SouthKorea",
+      "count": 1
+    },
+    {
+      "name": "Japan",
+      "count": 11
+    },
+    {
+      "name": "Netherlands",
+      "count": 2
+    },
+    {
+      "name": "Taiwan",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    }
+  ],
+  "2012": [
+    {
+      "name": "USA",
+      "count": 548
+    },
+    {
+      "name": "D.R.",
+      "count": 40
+    },
+    {
+      "name": "Venezuela",
+      "count": 30
+    },
+    {
+      "name": "Mexico",
+      "count": 14
+    },
+    {
+      "name": "Panama",
+      "count": 5
+    },
+    {
+      "name": "P.R.",
+      "count": 10
+    },
+    {
+      "name": "Cuba",
+      "count": 10
+    },
+    {
+      "name": "Japan",
+      "count": 14
+    },
+    {
+      "name": "CAN",
+      "count": 18
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Australia",
+      "count": 6
+    },
+    {
+      "name": "Curacao",
+      "count": 3
+    },
+    {
+      "name": "Nicaragua",
+      "count": 4
+    },
+    {
+      "name": "Taiwan",
+      "count": 2
+    },
+    {
+      "name": "SouthKorea",
+      "count": 1
+    },
+    {
+      "name": "Colombia",
+      "count": 4
+    },
+    {
+      "name": "Brazil",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 2
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    }
+  ],
+  "2013": [
+    {
+      "name": "USA",
+      "count": 556
+    },
+    {
+      "name": "D.R.",
+      "count": 41
+    },
+    {
+      "name": "Mexico",
+      "count": 13
+    },
+    {
+      "name": "CAN",
+      "count": 20
+    },
+    {
+      "name": "Venezuela",
+      "count": 30
+    },
+    {
+      "name": "Cuba",
+      "count": 13
+    },
+    {
+      "name": "Japan",
+      "count": 11
+    },
+    {
+      "name": "Germany",
+      "count": 2
+    },
+    {
+      "name": "Australia",
+      "count": 4
+    },
+    {
+      "name": "P.R.",
+      "count": 11
+    },
+    {
+      "name": "Curacao",
+      "count": 3
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 4
+    },
+    {
+      "name": "Taiwan",
+      "count": 4
+    },
+    {
+      "name": "SouthKorea",
+      "count": 3
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 4
+    },
+    {
+      "name": "Brazil",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "SaudiArabia",
+      "count": 1
+    }
+  ],
+  "2014": [
+    {
+      "name": "D.R.",
+      "count": 41
+    },
+    {
+      "name": "Venezuela",
+      "count": 37
+    },
+    {
+      "name": "Cuba",
+      "count": 13
+    },
+    {
+      "name": "Mexico",
+      "count": 10
+    },
+    {
+      "name": "USA",
+      "count": 572
+    },
+    {
+      "name": "CAN",
+      "count": 16
+    },
+    {
+      "name": "Germany",
+      "count": 3
+    },
+    {
+      "name": "Japan",
+      "count": 11
+    },
+    {
+      "name": "P.R.",
+      "count": 12
+    },
+    {
+      "name": "Australia",
+      "count": 2
+    },
+    {
+      "name": "Curacao",
+      "count": 3
+    },
+    {
+      "name": "Aruba",
+      "count": 1
+    },
+    {
+      "name": "Nicaragua",
+      "count": 3
+    },
+    {
+      "name": "Taiwan",
+      "count": 3
+    },
+    {
+      "name": "SouthKorea",
+      "count": 2
+    },
+    {
+      "name": "Panama",
+      "count": 3
+    },
+    {
+      "name": "Colombia",
+      "count": 4
+    },
+    {
+      "name": "Brazil",
+      "count": 1
+    },
+    {
+      "name": "Netherlands",
+      "count": 1
+    },
+    {
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "name": "Bahamas",
+      "count": 1
+    },
+    {
+      "name": "SaudiArabia",
+      "count": 1
+    }
+  ]
+}
