@@ -67,6 +67,18 @@ return {
 			stateData,
 			firstLoad = true;
 
+		scope.activeLocation = false;
+
+		scope.$watch('activeLocation', function(val){
+			if(!val) {return}
+			console.log(val);
+			var center = new google.maps.LatLng(val.location[0], val.location[1]);
+			map.setCenter(center);
+			map.setZoom(8);
+		})
+
+
+
 		var initialize = function() {
 
 			var mapOptions = {
@@ -76,10 +88,7 @@ return {
 				styles: mapStyles
 			};
 
-			map = new google.maps.Map(document.getElementById('map-canvas'),
-					mapOptions);
-
-
+			map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
 
 			var pointArray = new google.maps.MVCArray([]);
 
@@ -105,16 +114,7 @@ return {
 			$.get('data/yearlyDatabyCity.json')
 				.success(function(data) {
 					cityData = data;
-
 					loadYear(scope.currentYear);
-
-					// var setYears = setInterval(function() {
-					// 	loadYear(counter);
-					// 	counter++;
-					// 	if(counter == 2015) {
-					// 		clearInterval(setYears);
-					// 	}
-					// }, 250);
 				});	
 		}
 
@@ -122,17 +122,10 @@ return {
 			if(!cityData) {return}
 
 			var locations = cityData[year];
-
-
 			playerLocations = [];
 
 			$.each(locations, function(index, location){
-
 				playerLocations.push({location: new google.maps.LatLng(location.location[0], location.location[1]), weight: location.count});
-
-				// if(player.battingAVG !== null && player.battingAVG > 0 && player.battingAVG < 0.45) {
-				// 	playerLocations.push({location: new google.maps.LatLng(player.location[0], player.location[1]), weight: player.battingAVG * 10});
-				// }
 			});
 
 			scope.cityLocations = locations;
@@ -149,23 +142,11 @@ return {
 				scope.$apply();
 				firstLoad = false;
 			}
-
-		}
-
-
-		function isLocationFree(markers, player) {
-			for (var i = 0, l = markers.length; i < l; i++) {
-				if (player.lat === markers[i].lat && player.lng === markers[i].lng) {
-				return false;
-				}
-			}
-			return true;
 		}
 
 		scope.$watch('currentYear', function(val){
 			loadYear(val);
 		})
-
 
 		google.maps.event.addDomListener(window, 'load', initialize);
 		initialize();

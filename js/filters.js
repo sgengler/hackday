@@ -61,3 +61,19 @@ angular.module('hackdayApp.filters', [])
 		
 	};
 }])
+
+.filter('battingAvg', [function() {
+	return function(val) {
+		if(!val) {
+			return val;
+		}
+		return "." + Math.round(val * 1000);
+		
+	};
+}])
+
+.filter('num', function() {
+    return function(input) {
+      return parseFloat(input);
+    }
+});

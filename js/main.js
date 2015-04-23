@@ -276,7 +276,7 @@ function initialize() {
 
 	var yearlyData2 = {};
 
-	$.get('data/yearlyData2.json')
+	$.get('data/yearlyDatabyCity.json')
 		.success(function(data) {
 			yearlyData = data;
 			var counter = 1871;

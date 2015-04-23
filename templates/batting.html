@@ -1,21 +1,31 @@
 <div class="page-header">
      <h1>Best Birthplace for Hitters 1871-2014</h1>
 </div>
-<div class="row" ng-controller="HitterController">
+
+<div class="year-slider row">
+     <div class="slider-controls col-xs-2">
+          <button class="btn btn-primary" ng-click="playYears()"><i class="fa fa-play"></i></button>
+          <button class="btn btn-primary" ng-click="pauseYears()"><i class="fa fa-pause"></i></button>
+     </div>
+     <div class="col-xs-10">
+          <h2 class="text-center"><span class="small">Year:</span> <span id="year">{{currentYear}}</span></h2>
+          <div ui-slider=""  
+               min="1871" 
+               max="2014" 
+               ng-model="currentYear" 
+               class="ng-valid ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all">
+               <a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 2%;"></a>
+          </div>
+     </div>
+</div>
+<div class="row">
 
      <div class="col-xs-12 col-md-9">
           <div class="map-container">
                <div id="map-canvas" google-map></div>
           </div>
           <div class="map-footer">
-               <h2><span class="small">Year:</span> <span id="year">{{currentYear}}</span></h2>
-               <div ui-slider=""  
-                    min="1871" 
-                    max="2014" 
-                    ng-model="currentYear" 
-                    class="ng-valid ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all">
-                    <a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 2%;"></a>
-               </div>
+               
           </div>
      </div>
      <div class="col-xs-12 col-md-3">
@@ -25,12 +35,12 @@
                          <th colspan="2">Top 10 Birthplaces in {{currentYear}}</th>
                     </tr>
                     <tr>
-                         <th class="col-xs-1 col-md-3">#</th>
+                         <th class="col-xs-1">#</th>
                          <th>{{locationTypeName()}}</th>
                     </tr>
                </thead>
                <tbody>
-                    <tr class="location" ng-repeat="location in this[locationType] | orderBy : 'count' : true | limitTo : 10">
+                    <tr class="location" ng-repeat="location in this[locationType] | orderBy : 'count' : true | limitTo : 10" ng-click="setLocation(location)">
                          <td>{{$index + 1}}</td>
                          <td>{{location.name}} ({{location.count}})</td>
                     </tr>
@@ -38,7 +48,7 @@
           </table>
 
           <div ng-show="!this[locationType]">
-               <div class="alert alert-danger" role="alert">Loading Players...</div>
+               <div class="loader">Loading...</div>
           </div>
 
           <div class="list-filter">
@@ -53,5 +63,31 @@
                </label>
           </div>
 
+     </div>
+</div>
+
+<div class="row">
+     <div class="col-xs-12 col-sm-9">
+          <table class="table-locations table table-striped" ng-show="activeLocation">
+               <thead>
+                    <tr>
+                         <th colspan="2">{{activeLocation.name}} in {{currentYear}}</th>
+                    </tr>
+                    <tr>
+                         <th>Name</th>
+                         <th><a href ng-click="playerSort = 'battingAVG'">Batting Average</a></th>
+                         <th><a href ng-click="playerSort = 'OBP'">On Base %</a></th>
+                         <th><a href ng-click="playerSort = 'OPS'">OPS</a></th>
+                    </tr>
+               </thead>
+               <tbody>
+                    <tr class="location" ng-repeat="player in activeLocation.players | orderBy : playerSort : true">
+                         <td>{{player.nameFirst}} {{player.nameLast}}</td>
+                         <td>{{player.battingAVG | battingAvg}}</td>
+                         <td>{{player.OBP | battingAvg}}</td>
+                         <td>{{player.OPS | battingAvg}}</td>
+                    </tr>
+               </tbody>
+          </table>
      </div>
 </div>
